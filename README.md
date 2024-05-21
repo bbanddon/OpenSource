@@ -43,7 +43,3 @@ ___
   - 시스템에서 가장 많은 자원을 사용하는 프로세스들을 실시간으로 보여줍니다.
 - ps
   - 현재 실행 중인 프로세스의 스냅샷을 보여줍니다.
-
- GitHub supports emoji! 
-:+1: :sparkles: :camel: :tada: 
-:rocket: :metal: :octocat:
