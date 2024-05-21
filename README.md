@@ -19,7 +19,7 @@
     * 설명: 특정 프로세스를 종료시키기 위해 사용됩니다. 프로세스 ID를 통해 특정 프로세스를 종료시킬 수 있습니다.
     * 사용법: kill [프로세스 ID] 형식으로 사용합니다. 프로세스 ID는 ps 명령어를 통해 확인할 수 있습니다.
 
-![Linux Logo](C:\Users\rlawn\OneDrive\바탕 화면\컴공\오픈소스)
+![Linux Logo](https://th.bing.com/th/id/OIP.7DpgyMZTmgfrcLUvZzfqbgAAAA?rs=1&pid=ImgDetMain)
 
 
 / 테이블
