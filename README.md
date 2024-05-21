@@ -2,10 +2,10 @@
 ## README파일 작성하기
 ### 컴퓨터공학과 20194579 김준용 
 
-- [O] top
+- [x] top
 - [ ] px
-- [O] jobs
-- [O] kill
+- [x] jobs
+- [x] kill
 
 / 목록
 * top
