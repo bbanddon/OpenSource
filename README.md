@@ -4,6 +4,7 @@
 
 - [x] top
 - [ ] px
+- [x] ps
 - [x] jobs
 - [x] kill
 
